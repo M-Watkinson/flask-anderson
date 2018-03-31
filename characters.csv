@@ -1,0 +1,21 @@
+id,character,actor,movie,year released,movie imdb url
+1,M. Gustave,Ralph Fiennes,The Grand Budapest Hotel,2014,http://www.imdb.com/title/tt2278388/?ref_=ttfc_fc_tt
+2,Mr. Fox,George Clooney,Fantastic Mr. Fox,2009,http://www.imdb.com/title/tt0432283/?ref_=nv_sr_5
+3,Ash,Jason Schwartzman,Fantastic Mr. Fox,2009,http://www.imdb.com/title/tt0432283/?ref_=nv_sr_5
+4,Suzy Bishop,Kara Hayward,Moonrise Kingdom,2012,http://www.imdb.com/title/tt1748122/
+5,Sam,Jared Gilman,Moonrise Kingdom,2012,http://www.imdb.com/title/tt1748122/
+6,Margot Tenenbaum,Gwyneth Paltrow,The Royal Tenenbaums,2001,http://www.imdb.com/title/tt0265666/?ref_=nv_sr_2
+7,Eli Cash,Owen Wilson,The Royal Tenenbaums,2001,http://www.imdb.com/title/tt0265666/?ref_=nv_sr_2
+8,Richie Tenenbaum,Luke Wilson,The Royal Tenenbaums,2001,http://www.imdb.com/title/tt0265666/?ref_=nv_sr_2
+9,Steve Zissou,Bill Murray,The Life Aquatic with Steve Zissou,2004,http://www.imdb.com/title/tt0362270/?ref_=nv_sr_2
+10,Eleanor Zissou,Anjelica Huston,The Life Aquatic with Steve Zissou,2004,http://www.imdb.com/title/tt0362270/?ref_=nv_sr_2
+11,Jack Whitman,Jason Schwartzman,The Darjeeling Limited,2007,http://www.imdb.com/title/tt0838221/?ref_=nm_flmg_wr_10
+12,Francis,Owen Wilson,The Darjeeling Limited,2007,http://www.imdb.com/title/tt0838221/?ref_=nm_flmg_wr_10
+13,Herman Blume,Bill Murray,Rushmore,1998,http://www.imdb.com/title/tt0128445/?ref_=nm_flmg_wr_14
+14,Max Fischer,Jason Schwartzman,Rushmore,1998,http://www.imdb.com/title/tt0128445/?ref_=nm_flmg_wr_14
+15,Rosemary Cross,Olivia Williams,Rushmore,1998,http://www.imdb.com/title/tt0128445/?ref_=nm_flmg_wr_14
+16,Mrs. Fox,Meryl Streep,Fantastic Mr. Fox,2009,http://www.imdb.com/title/tt0432283/?ref_=nm_flmg_wr_8
+17,Dmitri,Adrien Brody,The Grand Budapest Hotel,2014,http://www.imdb.com/title/tt2278388/?ref_=fn_al_tt_1
+18,Agatha,Saoirse Ronan,The Grand Budapest Hotel,2014,http://www.imdb.com/title/tt2278388/?ref_=fn_al_tt_1
+19,Scout Master Ward,Edward Norton,Moonrise Kingdom,2012,http://www.imdb.com/title/tt1748122/?ref_=nv_sr_1
+20,Mrs. Bishop,Frances McDormand,Moonrise Kingdom,2012,http://www.imdb.com/title/tt1748122/?ref_=nv_sr_1

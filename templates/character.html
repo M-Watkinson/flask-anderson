@@ -1,0 +1,29 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block styles %}
+{{super()}}
+<link rel="stylesheet" href="{{url_for('static', filename='css/main.css')}}">
+{% endblock %}
+
+{% block title %}
+Wes Anderson Characters
+{% endblock %}
+
+{% block content %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+
+      <h1>Details about {{ character }}</h1>
+
+      <p class="lead">{{ character }} is played by {{ actor }} in {{ movie }}. {{ movie }} was released in {{ year_released }}. To learn more, visit the IMDb page <a href="{{ movie_imdb_url }}">here</a>.</p>
+
+    <p class="lead"><a href="{{ url_for('index') }}">Return to character list.</a></p>
+
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
